@@ -2,9 +2,9 @@
 🔧 Who I Am<br>I’m Anshad CK, an Embedded Systems Engineering student who’s passionate about building at the intersection of hardware and software. I love working close to the metal, writing clean C code, and making microcontrollers do cool things.<br><br>🚀 What I’m Working On<br><br>Developing firmware for microcontrollers (AVR/ARM)<br><br>Exploring communication protocols like SPI, I2C, and UART<br><br>Building small embedded systems — sensors, actuators, and real-time systems<br><br>🤝 What I’m Looking to Collaborate On<br><br>Embedded systems and IoT projects<br><br>Open-source firmware or driver development<br><br>Hardware + software co-design<br><br>📚 What I’m Learning<br><br>Real-Time Operating Systems (RTOS) fundamentals<br><br>Low-level debugging and optimization<br><br>Power-efficient embedded design<br><br>💬 Ask Me About<br><br>Embedded C programming<br><br>Microcontroller architectures (ARM Cortex, AVR)<br><br>Bitwise operations, interrupt handling, and memory-mapped I/O<br><br>⚡ Fun Fact<br>I enjoy turning simple ideas into hardware prototypes — whether it’s blinking LEDs or building a sensor network. I believe every embedded problem is a puzzle waiting to be solved.<br><br>🔗 Connect with Me<br>GitHub: https://github.com/ANSHAD134<br><br>LinkedIn: https://www.linkedin.com/in/anshad-ck-2a0080364/
 
 # 📊 GitHub Stats:
-                ![](https://github-readme-stats.vercel.app/api?username=ANSHAD134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-                ![](https://nirzak-streak-stats.vercel.app/?user=ANSHAD134&theme=tokyonight&hide_border=false)<br/>
-                ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHAD134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ANSHAD134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ANSHAD134&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHAD134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Socials:
