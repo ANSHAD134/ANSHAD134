@@ -1,91 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anshad CK</h1>
-<h3 align="center">Embedded Systems Engineer | Firmware Developer | IoT Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Embedded+C+%2F+C%2B%2B+Developer;STM32+%7C+ESP32+%7C+AVR+Engineer;Bare-Metal+%26+FreeRTOS+Programmer;Building+Reliable+Embedded+Systems" alt="Typing SVG" />
-</p>
+# ANSHAD CK
+### Embedded Systems Engineer
 
----
+[![Email](https://img.shields.io/badge/anshadck1020@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshadck1020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshad-ck)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ANSHAD134)
+![Location](https://img.shields.io/badge/Malappuram%2C_Kerala%2C_India-808080?style=flat-square&logo=googlemaps&logoColor=white)
 
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech in **Mechatronics Engineering** — MGM College of Engineering, KTU University (2021–2025)
-- 🛠️ **Embedded Systems Trainee** at Entri Elevate (Aug 2025 – May 2026)
-- 💡 Passionate about **bare-metal firmware**, **register-level driver development**, and **real-time embedded systems**
-- 🔭 Currently building projects with **STM32**, **ESP32**, and **AVR** microcontrollers
-- 🌱 Exploring **CAN/CAN-FD**, **low-power design**, and **IoT edge applications**
-- 📍 Based in **Malappuram, Kerala, India**
-- 📫 Reach me at: **anshadck1020@gmail.com**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Languages
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Microcontrollers & Platforms
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
-
-### Embedded Skills
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-brightgreen?style=for-the-badge)
-![Bare Metal](https://img.shields.io/badge/Bare--Metal_Programming-blue?style=for-the-badge)
-![Device Drivers](https://img.shields.io/badge/Device_Drivers-orange?style=for-the-badge)
-
-### Communication Protocols
-![UART](https://img.shields.io/badge/UART-555?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-555?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-555?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-555?style=for-the-badge)
-![PWM](https://img.shields.io/badge/PWM-555?style=for-the-badge)
-![ADC](https://img.shields.io/badge/ADC-555?style=for-the-badge)
-
-### Tools & IDEs
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-EE3124?style=for-the-badge)
-
-### Debugging & Lab
-![JTAG](https://img.shields.io/badge/JTAG%2FSWD-darkblue?style=for-the-badge)
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope-darkgreen?style=for-the-badge)
-![Logic Analyzer](https://img.shields.io/badge/Logic_Analyzer-purple?style=for-the-badge)
+Embedded Systems Engineer with hands-on experience in firmware development, bare-metal programming, and real-time embedded applications. Skilled in STM32, ESP32, and AVR microcontrollers with deep expertise in peripheral interfacing, low-level driver development, and IoT-based system design. Experienced with UART, SPI, I2C, CAN, ADC, PWM, GPIO, and FreeRTOS across multiple real-world projects.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🏥 Remote Patient Monitoring System (ESP32)
-> IoT-based real-time patient monitoring using FreeRTOS
-
-- Multi-sensor health and environmental data acquisition
-- MQTT-based cloud communication with Wi-Fi fault detection
-- OLED display monitoring and queue-based FreeRTOS task management
-- Servo-controlled bed mechanism
-
-🔗 [View Project](https://drive.google.com/drive/folders/1GdDAIaFtgaVBqi5J5G6LxtSflH-_DCVO?usp=sharing)
+| Domain | Skills |
+|---|---|
+| **Languages** | Embedded C, C, C++, Python |
+| **Microcontrollers** | STM32 (ARM Cortex-M), ESP32, AVR |
+| **Firmware** | Bare-Metal Programming, Device Drivers, FreeRTOS, Interrupt-Driven Design |
+| **Protocols** | UART, SPI, I2C, CAN, GPIO, PWM, ADC, DAC |
+| **Debug & Lab Tools** | JTAG/SWD, Oscilloscope, Logic Analyzer, Multimeter |
+| **IDEs & Tools** | STM32CubeIDE, Microchip Studio, VS Code, Git |
 
 ---
 
-### ⚡ Power-Aware Embedded System (STM32)
-> Low-power design using bare-metal register-level programming
+## Projects
 
-- STOP mode with external interrupt wake-up
-- Dynamic system clock reconfiguration for power efficiency
-- LM35 temperature monitoring via ADC interfacing
-- UART-based debug output — all at register level
+### Remote Patient Monitoring System — ESP32 + FreeRTOS
+Real-time IoT patient monitoring system with multi-sensor data acquisition and cloud connectivity.
+- Implemented FreeRTOS task management with queue-based inter-task communication
+- MQTT-based cloud data publishing with Wi-Fi fault detection and recovery
+- OLED real-time display and servo-based bed control mechanism
+- Integrated multiple health and environmental sensors
+
+🔗 [Project Files & Demo](https://drive.google.com/drive/folders/1GdDAIaFtgaVBqi5J5G6LxtSflH-_DCVO?usp=sharing)
+
+---
+
+### Power-Aware Embedded System — STM32
+Low-power embedded system designed using register-level bare-metal programming on STM32.
+- STOP mode implementation with external interrupt-based wake-up
+- Dynamic system clock reconfiguration for power-efficient operation
+- LM35 temperature monitoring via ADC with UART debug output
+- All peripherals configured at register level — no HAL abstraction
 
 🔗 [View on GitHub](https://github.com/ANSHAD134)
 
 ---
 
-### ❄️ Automated Cooling System Using LM35 (AVR)
-> Real-time temperature-controlled fan speed regulation
-
+### Automated Cooling System — AVR
+Temperature-controlled automated fan speed regulation using Embedded C.
 - ADC-based LM35 temperature acquisition
 - Timer0 Fast PWM motor speed control
 - Multi-level fan speed regulation based on temperature thresholds
@@ -94,63 +65,49 @@
 
 ---
 
-### 🌡️ BMP280 Sensor Interface (AVR)
-> I2C sensor driver with real-time LCD visualization
-
-- BMP280 temperature and pressure measurement
-- Custom I2C driver implementation from scratch
-- LCD-based real-time data display
+### BMP280 Sensor Interface — AVR
+I2C sensor driver implementation with real-time LCD data visualization.
+- Custom I2C driver built from scratch for BMP280 communication
+- Temperature and pressure measurement with calibration
+- LCD-based real-time data display with sensor initialization routines
 
 🔗 [View on GitHub](https://github.com/ANSHAD134/STM32-Notes/tree/main/AVR%20Assignment)
 
 ---
 
-### 🔧 AVR Assignment Collection (15+ Programs)
-> Complete collection of AVR embedded programs built from scratch
+### AVR Embedded Programs — 15+ Projects
+Complete collection of AVR embedded programs covering core peripherals and interfaces.
 
-Includes: LED Toggle, Push Button Control, LED Train Animation, 4-bit Binary Display, UART LED Control, Servo Motor Control, DC Motor Regulation, BMP280 OLED Display, Automated Cooling System, and more.
+`LED Toggle` `Push Button Control` `LED Train Animation` `4-bit Binary Display` `UART LED Control` `Servo Motor Control` `DC Motor Regulation` `BMP280 OLED Display` `Automated Cooling System` `LCD Button Press` `ADC` `PWM` `I2C` `Timers`
 
-🔗 [View All AVR Projects](https://github.com/ANSHAD134/STM32-Notes/tree/main/AVR%20Assignment)
-
----
-
-## 📜 Certifications
-
-- 🏆 Embedded Systems Program Completion Certificate — **Entri Elevate**
-- 🏆 Live Project Certificate — **Embedded Systems**
-- 🏆 NSDC Certification in association with **Illinois Institute of Technology**
-- 🏆 Internship Certificate — **IoT Engineer Intern, Elevance Skills**
+🔗 [View Full Collection](https://github.com/ANSHAD134/STM32-Notes/tree/main/AVR%20Assignment)
 
 ---
 
-## 📊 GitHub Stats
+## Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANSHAD134&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHAD134&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="mailto:anshadck1020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anshad-ck">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ANSHAD134">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Embedded Systems Trainee** — Entri Elevate *(Aug 2025 – May 2026)*
+- Developed register-level firmware and peripheral drivers for STM32 microcontrollers
+- Implemented interrupt-driven applications with optimized execution and resource utilization
+- Designed modular, reusable firmware components for maintainability and scalability
+- Performed hardware debugging and system validation using embedded lab tools
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANSHAD134&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## Education & Certifications
 
-<p align="center"><i>"Close to the metal, far from ordinary."</i></p>
+**B.Tech — Mechatronics Engineering**
+MGM College of Engineering, KTU University *(2021 – 2025)*
+
+| Certification | Issuer |
+|---|---|
+| Embedded Systems Program Completion | Entri Elevate |
+| Live Project Certificate — Embedded Systems | Entri Elevate |
+| NSDC Certification | Illinois Institute of Technology |
+| IoT Engineer Internship Certificate | Elevance Skills |
+
+---
+
+<div align="center">
+<sub>📬 anshadck1020@gmail.com &nbsp;|&nbsp; 📞 +91-7736090873 &nbsp;|&nbsp; Malappuram, Kerala, India</sub>
+</div>
