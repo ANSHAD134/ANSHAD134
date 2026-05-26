@@ -3,6 +3,8 @@
 # ANSHAD CK
 ### Embedded Systems Engineer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Embedded+C+%2F+C%2B%2B+Firmware+Developer;STM32+%7C+ESP32+%7C+AVR+Microcontroller+Engineer;Bare-Metal+%26+Register-Level+Programming;UART+%7C+SPI+%7C+I2C+%7C+CAN+%7C+FreeRTOS;Building+Reliable+Embedded+%26+IoT+Systems)](https://git.io/typing-svg)
+
 [![Email](https://img.shields.io/badge/anshadck1020@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshadck1020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshad-ck)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ANSHAD134)
