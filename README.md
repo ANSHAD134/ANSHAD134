@@ -53,7 +53,7 @@ Low-power embedded system designed using register-level bare-metal programming o
 - LM35 temperature monitoring via ADC with UART debug output
 - All peripherals configured at register level — no HAL abstraction
 
-🔗 [View on GitHub](https://github.com/ANSHAD134)
+🔗 [View on GitHub]([https://github.com/ANSHAD134](https://github.com/ANSHAD134/STM32-Notes/tree/main/Project))
 
 ---
 
@@ -63,7 +63,7 @@ Temperature-controlled automated fan speed regulation using Embedded C.
 - Timer0 Fast PWM motor speed control
 - Multi-level fan speed regulation based on temperature thresholds
 
-🔗 [View on GitHub](https://github.com/ANSHAD134/STM32-Notes/tree/main/AVR%20Assignment)
+🔗 [View on GitHub](https://github.com/ANSHAD134/STM32-Notes/tree/main/AVR%20Assignment/(10)Automated_Cooling_System_Using_LM35)
 
 ---
 
@@ -73,7 +73,7 @@ I2C sensor driver implementation with real-time LCD data visualization.
 - Temperature and pressure measurement with calibration
 - LCD-based real-time data display with sensor initialization routines
 
-🔗 [View on GitHub](https://github.com/ANSHAD134/STM32-Notes/tree/main/AVR%20Assignment)
+🔗 [View on GitHub](https://github.com/ANSHAD134/Embedded-system-files/tree/main/Assignment/BMP280_I2C%20Program)
 
 ---
 
@@ -107,6 +107,7 @@ MGM College of Engineering, KTU University *(2021 – 2025)*
 | Live Project Certificate — Embedded Systems | Entri Elevate |
 | NSDC Certification | Illinois Institute of Technology |
 | IoT Engineer Internship Certificate | Elevance Skills |
+| PCB Design | Simplilearn|
 
 ---
 
