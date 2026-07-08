@@ -30,6 +30,7 @@ Embedded Systems Engineer with hands-on experience in firmware development, bare
 | **Protocols** | UART, SPI, I2C, CAN, GPIO, PWM, ADC, DAC |
 | **Debug & Lab Tools** | JTAG/SWD, Oscilloscope, Logic Analyzer, Multimeter |
 | **IDEs & Tools** | STM32CubeIDE, Microchip Studio, VS Code, Git |
+| **Other Skills** | PCB Design, Microsoft Excel (Basic to Advanced) |
 
 ---
 
@@ -53,7 +54,7 @@ Low-power embedded system designed using register-level bare-metal programming o
 - LM35 temperature monitoring via ADC with UART debug output
 - All peripherals configured at register level — no HAL abstraction
 
-🔗 [View on GitHub]([https://github.com/ANSHAD134](https://github.com/ANSHAD134/STM32-Notes/tree/main/Project))
+🔗 [View on GitHub](https://github.com/ANSHAD134/STM32-Notes/tree/main/Project)
 
 ---
 
@@ -88,7 +89,7 @@ Complete collection of AVR embedded programs covering core peripherals and inter
 
 ## Experience
 
-**Embedded Systems Trainee** — Entri Elevate *(Aug 2025 – May 2026)*
+**Embedded Systems Trainee** — Entri Elevate *(Aug 2025 – June 2026)*
 - Developed register-level firmware and peripheral drivers for STM32 microcontrollers
 - Implemented interrupt-driven applications with optimized execution and resource utilization
 - Designed modular, reusable firmware components for maintainability and scalability
