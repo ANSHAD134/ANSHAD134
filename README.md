@@ -7,7 +7,6 @@
 
 [![Email](https://img.shields.io/badge/anshadck1020@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshadck1020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshad-ck)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ANSHAD134)
 ![Location](https://img.shields.io/badge/Malappuram%2C_Kerala%2C_India-808080?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
